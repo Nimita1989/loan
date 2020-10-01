@@ -1,2 +1,2 @@
 # loan
-homeloan
+one of the example is homeloan
